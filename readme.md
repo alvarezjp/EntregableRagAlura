@@ -69,7 +69,7 @@ El desafío sugería usar **OCI (Oracle Cloud Infrastructure)** para el desplieg
 
 ## 🚀 Aplicación desplegada
 
-🔗 **URL de la app en producción:** `[pegar aquí el enlace de tu app en Streamlit Cloud]`
+🔗 **URL de la app en producción:** `[https://entregableragalura-hxecruseuzbwef5epfcbye.streamlit.app/]`
 
 ![Captura de la aplicación en funcionamiento](./Captura.PNG)
 
